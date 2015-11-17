@@ -1,26 +1,11 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+Hi there! Welcome to Digitech
 
+To get you started, we included a template personal application.
 
-Hi there! Welcome to Cloud9 IDE!
+1) Fork this github project
 
-To get you started, we included a small hello world application.
+2) Go to http://docs.c9.io and create a new project from git
 
-1) Open the hello-world.html file
+3) Walk through the steps to create your own website
 
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+Best of luck... lets get coding!
