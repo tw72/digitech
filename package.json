@@ -1,0 +1,10 @@
+{
+  "name": "Digitech Node server packages",
+  "description": "A Digitech JS server",
+  "author": "thomas wilding <thomas.wilding@accenture.com>",
+  "dependencies": {
+    "connect": ">= 3.1.1",
+    "serve-static": ">= 1.5.3"
+  },
+  "engine": "node 4.1.1"
+}
